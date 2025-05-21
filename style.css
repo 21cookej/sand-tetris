@@ -4,3 +4,8 @@ body {
 /* canvas {
   border-radius: 1rem;
 } */
+canvas {
+  display: block;
+  width: 1600px !important;
+  height: 3200px !important;
+}
