@@ -117,7 +117,6 @@ let types = {
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
@@ -131,12 +130,10 @@ let types = {
         ['#f43', '#f43', '#f43', '#f43', null, null, null, null, null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', null, null, null, null, null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', null, null, null, null, null, null, null, null],
-
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
@@ -150,12 +147,10 @@ let types = {
         [null, null, null, null, null, null, null, null, '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, null, null, null, null, '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, null, null, null, null, '#f43', '#f43', '#f43', '#f43'],
-
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
@@ -168,12 +163,10 @@ let types = {
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
-
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
@@ -186,12 +179,10 @@ let types = {
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', null, null, null, null],
-
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
@@ -204,14 +195,10 @@ let types = {
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', null, null, null, null],
         [null, null, null, null, '#f43', '#f43', '#f43', '#f43', null, null, null, null],
-
-
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
-
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
         [null, null, null, null, null, null, null, null, null, null, null, null],
@@ -220,22 +207,18 @@ let types = {
 
 
     I: [
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-
-
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-
-
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
-        [null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
+        [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null],
 
 
     ]
