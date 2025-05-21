@@ -1,8 +1,8 @@
 let playfield
 let fallingPiece
 let paused = false
-const width = 80
-const height = 160
+const width = 160
+const height = 320
 // to calculate delta time
 let prev = 0;
 let score = 0
@@ -350,13 +350,10 @@ function isInArray(arr, value) {
     return arr.includes(value);
 }
 
-const tetrisColors = [
-    "#00FFFF",    // Cyan
+const tetrisColors = [ 
     "#0000FF",    // Blue
-    "#FFA500",    // Orange
     "#FFFF00",    // Yellow
     "#00FF00",    // Green
-    "#800080",    // Purple
     "#FF0000"     // Red
 ];
 
