@@ -1,8 +1,8 @@
 let playfield
 let fallingPiece
 let paused = false
-const width = 600
-const height = 1200
+const width = 120
+const height = 240
 // to calculate delta time
 let prev = 0;
 let score = 0
