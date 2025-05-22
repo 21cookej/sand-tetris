@@ -179,6 +179,7 @@ function automatonRules(grid) {
 
     let case0 = 230
     let case1 = '#f43'
+    let case2 = '#675'
 
 
 
