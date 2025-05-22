@@ -3,7 +3,7 @@ class Playfield {
     constructor(w, h) {
         // colors
         // this.foreground = [230];
-        this.foreground = 230;
+        this.foreground = 000;
         this.background = [255];
 
         // dimensions and grid
