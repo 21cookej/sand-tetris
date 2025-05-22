@@ -8,8 +8,16 @@ class Piece {
         // this.cells = types[type];
         this.cells = replaceStringIn2DArray(types[type], '#f43', this.color);
         //   console.log(this.color)
+        
+
+        this.colorshades = random(tetrisColorsShades);
+        
+        this.cells = replaceStringIn2DArray(types[type], '#675', this.colorshades);
+
+        
         this.size = this.cells.length; // assumed square matrix
 
+        
         // drawing sizes
         this.cellSize = playfield.cellSize;
         this.offset = playfield.borderSize;
@@ -114,10 +122,10 @@ let types = {
 
     O: [
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
-        ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#675', '#675', '#675', '#675', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#f43', '#f43', '#f43', '#675', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#675', '#f43', '#f43', '#675', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
+        ['#f43', '#675', '#675', '#675', '#675', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
         ['#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43', '#f43'],
