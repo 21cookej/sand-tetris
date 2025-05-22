@@ -350,13 +350,12 @@ function isInArray(arr, value) {
     return arr.includes(value);
 }
 
-const tetrisColorSets = {
-    blue: ["#0058a1", "#3b76ba", "#6a9bd1"],   // Main, lighter, lightest
-    yellow: ["#c7c718", "#dcdc59", "#ecec9e"],
-    green: ["#02a102", "#45c145", "#87e087"],
-    red: ["#b30909", "#d94444", "#f28787"]
-};
-
+const tetrisColors = [ 
+    "#0000FF",    // Blue
+    "#FFFF00",    // Yellow
+    "#00FF00",    // Green
+    "#FF0000"     // Red
+];
 
 
 
@@ -503,4 +502,3 @@ function linetest() {
 
 
 }
-
