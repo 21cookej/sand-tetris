@@ -357,6 +357,13 @@ const tetrisColors = [
     "#FF0000"     // Red
 ];
 
+const tetrisColorsShaders = [ 
+    "#0090FF",    // Blue
+    "#F00F00",    // Yellow
+    "#909F00",    // Green
+    "#1F0432"     // Red
+];
+
 
 
 
