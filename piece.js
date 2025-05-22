@@ -8,7 +8,7 @@ class Piece {
         this.cells = types[type];
         this.cells = replaceStringIn2DArray(types[type], '#f43', this.color);
         //   console.log(this.color)
-        
+//         this.type2 = type2;
 //         this.colorshades = random(tetrisColorsShades);
         
 //         this.cells = replaceStringIn2DArray(types[type2], '#675', this.colorshades);
@@ -26,7 +26,7 @@ class Piece {
         this.y = 0;
 
         // gravity
-        this.dropInterval = 300 // in ms
+        this.dropInterval = 70 // in ms
         this.dropBuffer = 0; // time since last drop
 
     }
