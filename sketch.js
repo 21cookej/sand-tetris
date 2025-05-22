@@ -11,12 +11,13 @@ const mapTemplate = [
 let pf;
 
 function setup() {
-    createCanvas(600, 900);
-    pf = new Playfield(20, 30); // cols x rows
-    pf.loadCustomMap(mapTemplate, "#00FFCC");
+  let canvas = createCanvas(600, 900);
+  canvas.parent('canvasBox'); // Attach canvas to div
+  pf = new Playfield(20, 30);
+  pf.loadCustomMap(mapTemplate, "#00FFCC");
 }
 
 function draw() {
-    background(0);
-    pf.show();
+  background(0);
+  pf.show();
 }
